@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "lodash.escape": "^4.0.1",
+    "mustache": "^2.3.0"
+  }
+}
